@@ -1,0 +1,46 @@
+body{
+background-color: beige;
+}
+
+
+
+.container_1 {
+        background-color: #16212c;
+}
+
+.menu {
+        color: white;
+}
+
+#text {
+background: #ffc600;
+color: black;
+}
+
+.container li {
+        display: inline;
+        position: relative;
+}
+
+.logo {
+        width: 250px;
+        margin-left: 516px
+}
+
+.container_2 {
+
+        color: #000b15;
+        height: 32px;
+        padding: 7px 5px 0;
+
+}
+
+h1 {
+color: #464f57;
+        font-family: "The Serif Office",Georgia,serif;
+}
+
+.img {
+width: 600px;
+line-height:60px;
+}
